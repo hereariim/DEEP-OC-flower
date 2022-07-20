@@ -2,14 +2,16 @@
     "title": "flower",
     "summary": "2D segmentation of flowering apple tree images",
     "description": [
-		"This is flower application using DEEPaaS API",
-           "",
-           "**References**\n",
-           ""
+		"Apple flowers are very sensitive to temperature.",
+        "The study of their development makes it possible to study climate change.",
+        "This module proposes a model for the segmentation of apple blossom images.",
+        "This model is based on the U-NET algorithm [1]."
 	],
     "keywords": [
         "docker",
-        "api-v2"
+        "api-v2",
+        "tensorflow",
+        "weighted binary cross entropy"
     ],
     "license": "MIT",
     "date_creation": "2022-07-07",
