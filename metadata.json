@@ -1,6 +1,6 @@
 {
-    "title": "flower",
-    "summary": "2D segmentation of flowering apple tree images",
+    "title": "Apple tree blossoming",
+    "summary": "Segmenting the flowers of an apple tree based on UNET algorithm",
     "description": [
 		"Apple flowers are very sensitive to temperature.",
         "The study of their development makes it possible to study climate change.",
